@@ -1,5 +1,5 @@
 import React from "react";
-import { DotIcon } from "./";
+import { DotIcon } from "../Icons";
 
 type Props = {
   textI: string;

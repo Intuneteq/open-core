@@ -264,7 +264,7 @@ export default function Home() {
             <p>NewYorK, US</p>
             <p>AtlasPremier. All Rights Reserved</p>
           </div>
-          <h3 className="mx-auto text-blueII text-[2.9rem] sm:text-[10.62994rem] md:text-[8rem] xxl:text-[12.59744rem] font-extrabold leading-[12.18013rem] xxl:leading-[14.43456rem] -tracking-[0.10631rem] xxl:-tracking-[0.126rem] mt-[1.5rem] md:mt-[7rem] sm:mt-[5rem] xxl:mt-[14.5rem]">
+          <h3 className="mx-auto text-blueII text-[2.9rem] sm:text-[10.62994rem] md:text-[8rem] xxl:text-[12.59744rem] font-extrabold leading-[12.18013rem] xxl:leading-[14.43456rem] -tracking-[0.10631rem] xxl:-tracking-[0.126rem] mt-[2.2rem] md:mt-[7rem] sm:mt-[5rem] xxl:mt-[14.5rem]">
             Atlas Premier
           </h3>
         </div>
