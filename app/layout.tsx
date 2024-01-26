@@ -11,7 +11,7 @@ const myFont = localFont({
 
 export const metadata: Metadata = {
   title: "Open Core",
-  description: "Open Core Assessment",
+  description: "Open Core Landing Page",
 };
 
 export default function RootLayout({
