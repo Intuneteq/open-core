@@ -22,7 +22,8 @@ const config: Config = {
         light: "#98A2B3",
         whiteII: "#EDF2F5",
         greyII: '#F2F4F7',
-        blackI: '#667085'
+        blackI: '#667085',
+        blackII: '#344054'
       },
       screens: {
         xl: "1440px",
