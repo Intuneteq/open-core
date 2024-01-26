@@ -23,7 +23,7 @@ export default function BlogCard({
   mainText,
 }: Props) {
   return (
-    <div className="w-full sm:w-[24.9375rem] xxl:w-[33.62075rem] h-[30.5rem] sm:h-[32.25rem] xxl:h-[41.49414rem] border-[10px] xxl:border-[13.482px] border-white rounded-2xl xxl:rounded-[1.34819rem]">
+    <div className="w-full sm:w-[24.9375rem] md:w-[22rem] xxl:w-[33.62075rem] h-[30.5rem] sm:h-[32.25rem] xxl:h-[41.49414rem] border-[10px] xxl:border-[13.482px] border-white rounded-2xl xxl:rounded-[1.34819rem]">
       <div className="h-1/2 w-full flex justify-center items-start bg-gradientII rounded-t-[0.5rem] xxl:rounded-t-[1.34819rem]">
         <div className="w-[13.41575rem] md:w-[8.49rem] xxl:w-[17.75631rem] h-[13.41575rem] sm:h-[8.49rem] xxl:h-[17.75631rem] relative">
           <Image src={src} fill objectFit="cover" alt={alt} />

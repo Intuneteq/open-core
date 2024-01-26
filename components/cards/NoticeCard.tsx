@@ -26,7 +26,7 @@ export default function NoticeCard({
       <div className="flex-1 relative h-[22.66rem] sm:h-full w-full sm:w-1/2 rounded-l-none sm:rounded-l-[2.00319rem] rounded-t-[2.00319rem] sm:rounded-t-none">
         {children}
       </div>
-      <div className="flex-1 w-full sm:w-1/2 h-[17.125rem] sm:h-0 flex flex-col justify-start items-center">
+      <div className="flex-1 w-full sm:w-1/2 h-[17.125rem] sm:h-0 flex flex-col sm:flex-row justify-start items-center">
         <div className=" max-w-[26.227rem] xxl:max-w-[36.66038rem] mx-auto px-4 sm:px-0 pt-[2.54rem] sm:pt-none">
           <CardDisplay textI={headerText1} textII={headerText2} />
           <p className="text-blackII text-center sm:text-left text-[2rem] sm:text-[2.5rem] xxl:text-[3.5rem] font-medium leading-[3rem] sm:leading-[3.3125rem] xxl:leading-[5rem] sm:mt-[1.25rem] xxl:mt-[1.67rem] mb-10 sm:mb-[6.06rem] xxl:mb-[8.1rem]">

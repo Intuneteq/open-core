@@ -15,13 +15,13 @@ const blogs = [
   },
   {
     id: 2,
-    src: "/rocket.png",
+    src: "/electric.png",
     alt: "rocket",
     headerText1: "FREELANCING 101",
     headerText2: "Charley Den",
     footerText1: "15 Min Read",
     footerText2: "23 - 05 -2023",
-    mainText: "Enhance UX: Designing Better UX/UI",
+    mainText: "Designing Impression: The Power of First Impressions",
   },
   {
     id: 3,
@@ -31,27 +31,27 @@ const blogs = [
     headerText2: "Charley Den",
     footerText1: "15 Min Read",
     footerText2: "23 - 05 -2023",
-    mainText: "Enhance UX: Designing Better UX/UI",
+    mainText: "Case Study: FlipX, an Investment Attraction Startup",
   },
   {
     id: 4,
-    src: "/rocket.png",
+    src: "/electric.png",
     alt: "rocket",
     headerText1: "FREELANCING 101",
     headerText2: "Charley Den",
     footerText1: "15 Min Read",
     footerText2: "23 - 05 -2023",
-    mainText: "Enhance UX: Designing Better UX/UI",
+    mainText: "Mastering Startup Branding: Expanding Digital Presence",
   },
   {
     id: 5,
-    src: "/rocket.png",
+    src: "/electric.png",
     alt: "rocket",
     headerText1: "FREELANCING 101",
     headerText2: "Charley Den",
     footerText1: "15 Min Read",
     footerText2: "23 - 05 -2023",
-    mainText: "Enhance UX: Designing Better UX/UI",
+    mainText: "Designing for Productivity: Efficiency Rules",
   },
   {
     id: 6,
@@ -61,7 +61,7 @@ const blogs = [
     headerText2: "Charley Den",
     footerText1: "15 Min Read",
     footerText2: "23 - 05 -2023",
-    mainText: "Enhance UX: Designing Better UX/UI",
+    mainText: "Kickstart your UI/UX design career?",
   },
 ];
 
@@ -248,7 +248,7 @@ export default function Home() {
                 </div>
               </div>
             </div>
-            <div className="flex w-full justify-between items-start gap-y-4 gap-8 xxl:gap-[5.33rem] text-blueIV text-xl xxl:text-[1.5rem] font-normal mt-8 sm:mt-0">
+            <div className="flex w-full sm:w-auto justify-between items-start gap-y-4 gap-8 xxl:gap-[5.33rem] text-blueIV text-xl xxl:text-[1.5rem] font-normal mt-8 sm:mt-0">
               <ul className="flex flex-col justify-start item-start gap-y-[0.8rem] xl:gap-y-[1.08rem]">
                 <li>Home</li>
                 <li>About us</li>
@@ -264,7 +264,7 @@ export default function Home() {
             <p>NewYorK, US</p>
             <p>AtlasPremier. All Rights Reserved</p>
           </div>
-          <h3 className="mx-auto text-blueII text-[2.9rem] sm:text-[10.62994rem] xxl:text-[12.59744rem] font-extrabold leading-[12.18013rem] xxl:leading-[14.43456rem] -tracking-[0.10631rem] xxl:-tracking-[0.126rem] mt-[1.5rem] sm:mt-[5rem] xxl:mt-[15.5rem]">
+          <h3 className="mx-auto text-blueII text-[2.9rem] sm:text-[10.62994rem] md:text-[8rem] xxl:text-[12.59744rem] font-extrabold leading-[12.18013rem] xxl:leading-[14.43456rem] -tracking-[0.10631rem] xxl:-tracking-[0.126rem] mt-[1.5rem] md:mt-[7rem] sm:mt-[5rem] xxl:mt-[14.5rem]">
             Atlas Premier
           </h3>
         </div>
